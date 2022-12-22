@@ -1,0 +1,8 @@
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\HelloWorldSample\bin\Debug\HelloWorldSample.exe.config
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\HelloWorldSample\bin\Debug\HelloWorldSample.exe
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\HelloWorldSample\bin\Debug\HelloWorldSample.pdb
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\HelloWorldSample\obj\Debug\HelloWorldSample.csproj.AssemblyReference.cache
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\HelloWorldSample\obj\Debug\HelloWorldSample.csproj.SuggestedBindingRedirects.cache
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\HelloWorldSample\obj\Debug\HelloWorldSample.csproj.CoreCompileInputs.cache
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\HelloWorldSample\obj\Debug\HelloWorldSample.exe
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\HelloWorldSample\obj\Debug\HelloWorldSample.pdb
