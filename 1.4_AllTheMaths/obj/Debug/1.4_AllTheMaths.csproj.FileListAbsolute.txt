@@ -1,0 +1,8 @@
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.4_AllTheMaths\bin\Debug\1.4_AllTheMaths.exe.config
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.4_AllTheMaths\bin\Debug\1.4_AllTheMaths.exe
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.4_AllTheMaths\bin\Debug\1.4_AllTheMaths.pdb
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.4_AllTheMaths\obj\Debug\1.4_AllTheMaths.csproj.AssemblyReference.cache
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.4_AllTheMaths\obj\Debug\1.4_AllTheMaths.csproj.SuggestedBindingRedirects.cache
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.4_AllTheMaths\obj\Debug\1.4_AllTheMaths.csproj.CoreCompileInputs.cache
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.4_AllTheMaths\obj\Debug\1.4_AllTheMaths.exe
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.4_AllTheMaths\obj\Debug\1.4_AllTheMaths.pdb
