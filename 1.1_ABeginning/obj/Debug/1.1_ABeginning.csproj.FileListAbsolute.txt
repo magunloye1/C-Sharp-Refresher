@@ -1,0 +1,8 @@
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.1_ABeginning\bin\Debug\1.1_ABeginning.exe.config
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.1_ABeginning\bin\Debug\1.1_ABeginning.exe
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.1_ABeginning\bin\Debug\1.1_ABeginning.pdb
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.1_ABeginning\obj\Debug\1.1_ABeginning.csproj.AssemblyReference.cache
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.1_ABeginning\obj\Debug\1.1_ABeginning.csproj.SuggestedBindingRedirects.cache
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.1_ABeginning\obj\Debug\1.1_ABeginning.csproj.CoreCompileInputs.cache
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.1_ABeginning\obj\Debug\1.1_ABeginning.exe
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.1_ABeginning\obj\Debug\1.1_ABeginning.pdb
