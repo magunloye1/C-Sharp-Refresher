@@ -1,0 +1,8 @@
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.2_ProjectGutenburg\bin\Debug\1.2_ProjectGutenburg.exe.config
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.2_ProjectGutenburg\bin\Debug\1.2_ProjectGutenburg.exe
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.2_ProjectGutenburg\bin\Debug\1.2_ProjectGutenburg.pdb
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.2_ProjectGutenburg\obj\Debug\1.2_ProjectGutenburg.csproj.AssemblyReference.cache
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.2_ProjectGutenburg\obj\Debug\1.2_ProjectGutenburg.csproj.SuggestedBindingRedirects.cache
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.2_ProjectGutenburg\obj\Debug\1.2_ProjectGutenburg.csproj.CoreCompileInputs.cache
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.2_ProjectGutenburg\obj\Debug\1.2_ProjectGutenburg.exe
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.2_ProjectGutenburg\obj\Debug\1.2_ProjectGutenburg.pdb
