@@ -1,0 +1,8 @@
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.5_Variables_InABUcket\bin\Debug\1.5_Variables_InABUcket.exe.config
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.5_Variables_InABUcket\bin\Debug\1.5_Variables_InABUcket.exe
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.5_Variables_InABUcket\bin\Debug\1.5_Variables_InABUcket.pdb
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.5_Variables_InABUcket\obj\Debug\1.5_Variables_InABUcket.csproj.AssemblyReference.cache
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.5_Variables_InABUcket\obj\Debug\1.5_Variables_InABUcket.csproj.SuggestedBindingRedirects.cache
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.5_Variables_InABUcket\obj\Debug\1.5_Variables_InABUcket.csproj.CoreCompileInputs.cache
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.5_Variables_InABUcket\obj\Debug\1.5_Variables_InABUcket.exe
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.5_Variables_InABUcket\obj\Debug\1.5_Variables_InABUcket.pdb
