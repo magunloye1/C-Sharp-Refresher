@@ -1,0 +1,8 @@
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.6_Variables_MoreBucketsOfFun\bin\Debug\1.6_Variables_MoreBucketsOfFun.exe.config
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.6_Variables_MoreBucketsOfFun\bin\Debug\1.6_Variables_MoreBucketsOfFun.exe
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.6_Variables_MoreBucketsOfFun\bin\Debug\1.6_Variables_MoreBucketsOfFun.pdb
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.6_Variables_MoreBucketsOfFun\obj\Debug\1.6_Variables_MoreBucketsOfFun.csproj.AssemblyReference.cache
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.6_Variables_MoreBucketsOfFun\obj\Debug\1.6_Variables_MoreBucketsOfFun.csproj.SuggestedBindingRedirects.cache
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.6_Variables_MoreBucketsOfFun\obj\Debug\1.6_Variables_MoreBucketsOfFun.csproj.CoreCompileInputs.cache
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.6_Variables_MoreBucketsOfFun\obj\Debug\1.6_Variables_MoreBucketsOfFun.exe
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.6_Variables_MoreBucketsOfFun\obj\Debug\1.6_Variables_MoreBucketsOfFun.pdb
