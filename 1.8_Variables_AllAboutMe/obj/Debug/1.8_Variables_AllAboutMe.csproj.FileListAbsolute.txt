@@ -1,0 +1,8 @@
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.8_Variables_AllAboutMe\bin\Debug\1.8_Variables_AllAboutMe.exe.config
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.8_Variables_AllAboutMe\bin\Debug\1.8_Variables_AllAboutMe.exe
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.8_Variables_AllAboutMe\bin\Debug\1.8_Variables_AllAboutMe.pdb
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.8_Variables_AllAboutMe\obj\Debug\1.8_Variables_AllAboutMe.csproj.AssemblyReference.cache
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.8_Variables_AllAboutMe\obj\Debug\1.8_Variables_AllAboutMe.csproj.SuggestedBindingRedirects.cache
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.8_Variables_AllAboutMe\obj\Debug\1.8_Variables_AllAboutMe.csproj.CoreCompileInputs.cache
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.8_Variables_AllAboutMe\obj\Debug\1.8_Variables_AllAboutMe.exe
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\1.8_Variables_AllAboutMe\obj\Debug\1.8_Variables_AllAboutMe.pdb
