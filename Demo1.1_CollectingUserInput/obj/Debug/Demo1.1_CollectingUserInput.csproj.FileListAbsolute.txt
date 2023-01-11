@@ -1,0 +1,8 @@
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\Demo1.1_CollectingUserInput\bin\Debug\Demo1.1_CollectingUserInput.exe.config
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\Demo1.1_CollectingUserInput\bin\Debug\Demo1.1_CollectingUserInput.exe
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\Demo1.1_CollectingUserInput\bin\Debug\Demo1.1_CollectingUserInput.pdb
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\Demo1.1_CollectingUserInput\obj\Debug\Demo1.1_CollectingUserInput.csproj.AssemblyReference.cache
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\Demo1.1_CollectingUserInput\obj\Debug\Demo1.1_CollectingUserInput.csproj.SuggestedBindingRedirects.cache
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\Demo1.1_CollectingUserInput\obj\Debug\Demo1.1_CollectingUserInput.csproj.CoreCompileInputs.cache
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\Demo1.1_CollectingUserInput\obj\Debug\Demo1.1_CollectingUserInput.exe
+C:\Users\marva\OneDrive\Documents\WileyEdge\OOP in C# and .NET\codepractice\Demo1.1_CollectingUserInput\obj\Debug\Demo1.1_CollectingUserInput.pdb
